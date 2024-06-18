@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "358503040294",
+    "project_id": "sedd-69904",
+    "storage_bucket": "sedd-69904.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:358503040294:android:f9b545aa9108b7cb746de7",
+        "android_client_info": {
+          "package_name": "com.example.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAal8s1h4NI7mvfMMXrrItoI-3brX91Zds"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

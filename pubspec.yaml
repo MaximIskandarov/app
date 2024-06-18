@@ -1,0 +1,64 @@
+name: app
+description: A new Flutter project.
+
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.1.3 <4.0.0'
+
+
+dependencies:
+  flutter:
+    sdk: flutter
+  firebase_core: ^2.32.0
+  cloud_firestore: ^4.17.5
+  firebase_auth: ^4.2.9
+
+
+
+
+  # The following adds the Cupertino Icons font to your application.
+  # Use with the CupertinoIcons class for iOS style icons.
+  cupertino_icons: ^1.0.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+  flutter_lints: ^4.0.0
+
+
+flutter:
+
+
+  uses-material-design: true
+  assets:
+    - assets/images/clothes.png
+    - assets/images/shoes.png
+    - assets/images/accessories.png
+    - assets/images/cosmetics.png
+    - assets/images/tech.png
+    - assets/images/toys.png
+    - assets/images/books.png
+    - assets/images/home.png
+    - assets/images/jewelry.png
+    - assets/images/construction.png
+    - assets/images/office.png
+    - assets/images/health.png
+    - assets/images/sports.png
+    - assets/images/hobby.png
+    - assets/images/auto.png
+    - assets/images/stationery.png
+    - assets/images/image1.png
+    - assets/images/image2.png
+    - assets/images/image3.png
+    - assets/images/button_image_0.png
+    - assets/images/button_image_1.png
+    - assets/images/button_image_2.png
+    - assets/images/button_image_3.png
+    - assets/images/button_image_4.png
+    - assets/images/button_image_5.png
+
